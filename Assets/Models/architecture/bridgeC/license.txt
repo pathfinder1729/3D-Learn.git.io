@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bridge
+* source:	https://sketchfab.com/3d-models/bridge-aab74dd8d4e5411d9929db5dbf67515f
+* author:	Nick Suarez (https://sketchfab.com/nicksuarez21)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bridge" (https://sketchfab.com/3d-models/bridge-aab74dd8d4e5411d9929db5dbf67515f) by Nick Suarez (https://sketchfab.com/nicksuarez21) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

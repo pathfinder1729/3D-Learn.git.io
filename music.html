@@ -52,16 +52,19 @@
 			src: ['./audio/piano.mp3']
 		});
         
-		
-		drums.play();
 		drums.mute(true);
+		guitar.mute(true);
+		mic.mute(true);
+		piano.mute(true);
+		drums.play();
+		
 
 		guitar.play();
-		guitar.mute(true);
+		
 		mic.play();
-		mic.mute(true);
+		
 		piano.play();
-		piano.mute(true);
+		
 		// function playGuitar() {
 		// 	guitar.play();
 		// }
